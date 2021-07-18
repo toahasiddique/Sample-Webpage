@@ -1,0 +1,33 @@
+table {
+  border: 2;
+  background-color: yellow;
+}
+.sec{
+  background-color: lightpink;
+}
+
+
+th {
+  width: 200px;
+
+}
+
+.d1 {
+  border: 2px solid red;
+  width: 200vh;
+}
+
+.p1{
+  font-family: arial;
+
+}
+
+.p2{
+  font-family: Courier;
+
+}
+
+.p3{
+  font-family: Corsiva;
+
+}
